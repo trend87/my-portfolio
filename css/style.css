@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    color: #40514E;
+    font-size: 18px;
+}
+h1{
+    color: #66BFBF;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom:10px ;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #EAF6F6; 
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.top-container{
+    background-color: #DFF6FF;
+    position: relative;
+    padding-top:100px ;
+}
+.middle-container{
+    margin: 100px 0 100px 0;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.image-container{
+    height: 300px;
+    width: 300px;
+    background: linear-gradient(to right, #33ccff 0%, #ff99cc 70%);
+    text-align: center;
+    margin: auto;
+    border-radius: 100%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.html-image{
+    float: left;
+   margin-right: 30px;
+}
+.ui-image{
+    float: right;
+    margin-left: 30px;
+}
+.graphics-image{
+    float: left;
+    margin-right: 30px;
+}
+.wordpress-image{
+    float: right;
+    margin-right: 30px;
+}
+.btn {
+    padding: 10px ;
+    border-radius: 20px;
+    background-color: #11999E;
+    text-decoration: none;
+    width: 150px;
+    height: 20px;
+    margin: auto;
+    text-decoration: none;
+    transition: padding 1.5s ;
+}
+.btn:hover{
+    color: white;
+    margin-top: 10px;
+    padding: 15px;
+}
+.btn a{
+    text-decoration: none;
+    color:white;
+}
+.btn a:hover{
+    text-decoration: underline;
+}
+.bottom-container{
+    background-color: #11999E;
+    padding: 50px 0 20px;
+    color: white;
+}
+.bottom-container a {
+    text-decoration: none;
+    color: white;
+    padding: 0 16px;
+}
+.bottom-container a:hover{
+    text-decoration: underline;
+    
+}
