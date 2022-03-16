@@ -161,7 +161,6 @@ hr{
         margin-right: auto;
         width: 96%;
         padding: 10px;
-        border: 1px solid red ;
       
     }
     .graphics-image{
@@ -194,7 +193,6 @@ hr{
     .skill-row{
         width: auto;
         text-align: center;
-        border: 2px solid green;
     }
     .bottom-container{
         background-color: #11999E;
