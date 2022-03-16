@@ -117,3 +117,18 @@ hr{
     text-decoration: underline;
     
 }
+@media only screen and (max-width: 600px)  {
+    .mountain-image{
+        position: static;
+        width: 70%;
+    }
+    .top-container{
+        background-color: #DFF6FF;
+       width: 100%;
+    }
+    .bottom-cloud{
+        position: absolute;
+        left: 300px;
+        bottom: 200px;
+    }
+}
