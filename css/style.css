@@ -161,7 +161,6 @@ hr{
         margin-right: auto;
         width: 100%;
         padding: 10px;
-        border: 2px solid;
       
     }
     .graphics-image{
@@ -170,7 +169,6 @@ hr{
         margin-right: auto;
         width: 100%;
         padding: 10px;
-        border: 2px solid;
     }
     .ui-image{
         display: block;
@@ -178,7 +176,6 @@ hr{
         margin-right: auto;
         width: 100%;
         padding: 10px;
-        border: 2px solid;
 
     }
     .html-image{
@@ -187,7 +184,6 @@ hr{
         margin-right: auto;
         width: 100%;
         padding: 10px;
-        border: 2px solid;
     }
     .images{
   margin-left: auto;
@@ -195,7 +191,6 @@ hr{
 
     }
     .skill-row{
-        border: 2px solid;
         width: auto;
         text-align: center;
     }
