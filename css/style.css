@@ -157,24 +157,25 @@ hr{
     }
     .wordpress-image{
         display: block;
-        margin-left: auto;
+        margin-left: 200px;
         margin-right: auto;
-        width: 100%;
+        width: 96%;
         padding: 10px;
+        border: 1px solid red ;
       
     }
     .graphics-image{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 96%;
         padding: 10px;
     }
     .ui-image{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 96%;
         padding: 10px;
 
     }
@@ -182,7 +183,7 @@ hr{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 96%;
         padding: 10px;
     }
     .images{
@@ -193,12 +194,15 @@ hr{
     .skill-row{
         width: auto;
         text-align: center;
+        border: 2px solid green;
     }
     .bottom-container{
         background-color: #11999E;
         padding: 50px 0 20px;
         color: white;
     }
-       
+    .contact-me{
+        padding-bottom: 50px;
+    }
        
  }
