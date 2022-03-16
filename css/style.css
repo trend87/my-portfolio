@@ -16,6 +16,7 @@ h2{
     font-family: 'Montserrat', sans-serif;
     padding-bottom:10px ;
 }
+
 h3{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
@@ -118,7 +119,9 @@ hr{
     
 }
 @media only screen and (max-width: 600px)  {
-   
+   .intro{
+       width: 50%;
+   }
     .mountain-image{
         position: static;
         width: 60%;
@@ -133,5 +136,35 @@ hr{
       }
     .top-cloud{
         display: none;
+        }
+        .skill-row{
+            width: 50%;
+            margin: 100px auto 100px auto;
+            text-align: left;
+        }
+        .html-image{
+            margin: 20px ;
+        }
+        .ui-image{
+          margin: 20px;
+        }
+        .graphics-image{
+            margin: 20px;
+        }
+        .wordpress-image{
+            margin: 20px;
+            
+        }
+        .skill-row{
+            width: 50%;
+            margin: 20px auto;
+            text-align: left;
+            border:2px solid;
+        }
+        h3{
+            text-align: center;
+        }
+        .skill{
+            width: 100%;
         }
 }
